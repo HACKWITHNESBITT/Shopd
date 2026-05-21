@@ -274,7 +274,7 @@ img {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9)), url('../images/hero_bg.png');
+    background-image: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9)), url('../images/gallery_3.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
